@@ -2,7 +2,7 @@
 
 Please see the accompanying paper and supplemental material for an overview of the capabilities of this software: [Statistical Toolkit for Analysis of Radiotherapy DICOM Data](https://doi.org/10.1088/2057-1976/ade9cb)
 
-All relevent code is contained and commented within [STAR.ipynb](https://github.com/m-kinz/STAR/blob/main/STAR.ipynb), including instructions on how to navigate the notebook.
+All code is contained and commented within [STAR.ipynb](https://github.com/m-kinz/STAR/blob/main/STAR.ipynb), including instructions on how to navigate the notebook.
 
 ## Installation
 To use, please install the following programs: 
